@@ -1,0 +1,10 @@
+# vim/emacs temporary/backup files
+*~
+*.swp
+
+*.diff
+*.pyc
+*.bc
+
+Library/
+Temp/
